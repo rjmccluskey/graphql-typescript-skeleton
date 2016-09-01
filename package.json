@@ -1,0 +1,28 @@
+{
+  "name": "node-express-typescript-skeleton",
+  "version": "1.0.0",
+  "description": "Node + Express + TypeScript Starter Pack",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rjmccluskey/node-express-typescript-skeleton.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "typescript"
+  ],
+  "author": "Richard McCluskey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rjmccluskey/node-express-typescript-skeleton/issues"
+  },
+  "homepage": "https://github.com/rjmccluskey/node-express-typescript-skeleton#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
