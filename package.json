@@ -1,7 +1,7 @@
 {
-  "name": "node-express-typescript-skeleton",
+  "name": "graphql-typescript-skeleton",
   "version": "1.0.0",
-  "description": "Node + Express + TypeScript Starter Pack",
+  "description": "Node + Express + TypeScript + GraphQL Starter Pack",
   "main": "app.js",
   "scripts": {
     "start": "node ./bin/www",

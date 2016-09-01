@@ -1,1 +1,1 @@
-# Node / Express / TypeScript Starter Pack!
+# Node / Express / TypeScript / GraphQL Starter Pack!
