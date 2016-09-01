@@ -1,1 +1,1 @@
-# node-express-typescript-skeleton
+# Node / Express / TypeScript Starter Pack!
