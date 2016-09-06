@@ -14,7 +14,8 @@
   "keywords": [
     "node",
     "express",
-    "typescript"
+    "typescript",
+    "graphql"
   ],
   "author": "Richard McCluskey",
   "license": "MIT",
